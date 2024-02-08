@@ -130,6 +130,6 @@ body{
 }
 
 .flap > .heart {
-  transform: rotate(90deg);
+  transform: rotate(90deg) rotateY(90deg);
   transition-delay: 0.4s;
 }
